@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ffd6e0,cdb4db&height=200&section=header&text=Hemalatha%20G&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Front-end %20Dev%20%7C%20Database%20Enthusiast&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ffd6e0,cdb4db&height=200&section=header&text=Hemalatha%20G&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20Dev%20%7C%20Database%20Enthusiast&descAlignY=55)
 
 # Hi there 👋 I'm Hemalatha G! 🌸
 
