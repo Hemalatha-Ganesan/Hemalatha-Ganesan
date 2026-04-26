@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ffd6e0,cdb4db&height=200&section=header&text=Hemalatha%20G&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20Dev%20%7C%20Database%20Enthusiast&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ffd6e0,cdb4db&height=200&section=header&text=Hemalatha%20G&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Front-end %20Dev%20%7C%20Database%20Enthusiast&descAlignY=55)
 
 # Hi there 👋 I'm Hemalatha G! 🌸
 
@@ -8,10 +8,9 @@
 
 ## 🌷 About Me
 
-- 🎓 CSE Student passionate about **Full-Stack Development** & **Databases**
-- 💻 Currently learning **Node.js**, **DSA on LeetCode** & **AI/ML**
+- 🎓 CSE Student passionate about **FrontEnd Development** & **Databases** & **AI/ML**
+- 💻 Currently learning :  **DSA on LeetCode** & **AI/ML**
 - 🏥 Building a **Medical Imaging AI** project (X-ray & CT scan analysis)
-- 🎨 Love **clean UI designs** and debugging code bugs 🐛
 - 🌱 Always learning and adapting to emerging technologies
 - ⚡ Fun fact: I find beauty in well-structured databases 🌸
 
@@ -66,7 +65,7 @@
 
 ## 🍀 LeetCode Progress
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Hemalatha_G?theme=light&font=Nunito&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Hemalatha_08?theme=light&font=Nunito&ext=heatmap)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hemalatha-Ganesan&label=Profile%20Views&color=ffb7c5&style=flat)
