@@ -64,27 +64,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Hemalatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemalatha-Ganesan&show_icons=true&theme=rose_pine&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hemalatha-Ganesan&theme=rose_pine&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemalatha-Ganesan&layout=compact&theme=rose_pine&hide_border=true)
-
----
-
 ## 🍀 LeetCode Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Hemalatha_G?theme=light&font=Nunito&ext=heatmap)
 
----
-
-## 🌸 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemalatha-Ganesan&bg_color=fff0f5&color=c47c8a&line=cdb4db&point=ffb7c5&area=true&hide_border=true)
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hemalatha-Ganesan&label=Profile%20Views&color=ffb7c5&style=flat)
 
